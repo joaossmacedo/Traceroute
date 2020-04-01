@@ -1,4 +1,5 @@
 # Traceroute
+Project developed for the discipline of Redes 2(Networks 2).</br></br>
 Traceroute implementation for MacOs and Linux</br>
 Python 2.7
 
